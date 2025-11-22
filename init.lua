@@ -1,6 +1,8 @@
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 
+require 'kurth4cker'
+
 vim.g.have_nerd_font = true
 
 vim.o.number = true
